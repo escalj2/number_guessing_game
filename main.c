@@ -20,9 +20,6 @@ int main() {
     printf("--------------------\n");
     printf("Let's play a game!\n");
     printf("I'm thinking of a number between 1-100...\n> ");
-    
-    //REMOVE AFTER TESTING
-    printf("ANSWER: %d\n> ", randomnumber);
 
     do
     {
